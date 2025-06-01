@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a backend and onchain developer. I'm interested in open source projects, cryptography, and project optimization.
+I am a backend and onchain developer. I'm interested in open source projects, crypto, and project optimization.
 I'm also interested in many other things, such as origami, insects, literature, architecture ...
 
 Make something people want and change the world.
